@@ -11,7 +11,7 @@
 </div>
     <img src="https://komarev.com/ghpvc/?username=michael-duren&style=flat-square&color=green" alt="views icon"/>
 		<h1 style="margin-top:2rem;border:none;padding-bottom:0;"><b>Hi 👋, I'm Jose Sanchez</b></h1>
-		<h3>Web Developer and Professional Hacker</h3>
+		<h3>Web Developer & Professional Hacker</h3>
 </div>
 
 ### 🧑🏻‍💻 About Me:
