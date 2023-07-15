@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/astronaut.png" alt="logo">
+  <img src="./images/logo.png" alt="logo">
 </div>
 
 <div align="center" style="margin-bottom:4rem;" id="header">
