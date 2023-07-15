@@ -1,4 +1,6 @@
-<img src="./images/astronaut.png" alt="logo">
+<div style="display: flex; justify-content: center;">
+  <img src="./images/astronaut.png" alt="logo">
+</div>
 
 <div align="center" style="margin-bottom:4rem;" id="header">
 	<img style="height:9rem;width:9rem;" src="./images/astronaut.png" alt="Batman"/>
