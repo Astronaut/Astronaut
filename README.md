@@ -16,11 +16,11 @@
 
 ### 🧑🏻‍💻 About Me:
 
-- 🌱 I'm currently learning **Python** & **Full Stack Web Development**
+- 💻 I'm currently learning **Python** & **Full Stack Web Development**
 
 - ✉️ How to reach me: pluto@outlook.com
 
-- 👀 In my free time I play video games, [Twitch](https://www.twitch.tv/Saturn).
+- 🕹 In my free time I play video games, [Twitch](https://www.twitch.tv/Saturn).
 
 ### 🛠️ Languages and Tools
 
@@ -95,7 +95,7 @@
     		alt="astronaut" /></p>
 </div>
 
-## 😂 Here is a random joke that'll make you laugh!
+## 😂 Just a random joke that'll make you laugh!
 <div style="text-align: center;">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="background-color: #44475a; border-radius: 4px; padding: 20px; width: 400px; margin: 0 auto;">
 </div>
