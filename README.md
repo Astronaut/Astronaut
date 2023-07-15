@@ -86,6 +86,9 @@
 	<a href="https://www.vim.org" target="_blank" rel="noreferrer">
 	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
 	</a>&nbsp;
+	<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+	<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+	</a>&nbsp;
 
 </div>
 
