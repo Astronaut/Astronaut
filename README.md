@@ -22,6 +22,8 @@
 
 - 💻 I'm currently learning **Python** & **Full Stack Web Development**
 
+- 🛸 Working on my **OSCP**
+
 - ✉️ How to reach me: pluto@outlook.com
 
 - 🕹 In my free time I play video games! [Twitch](https://www.twitch.tv/Saturn) | [Kick](https://www.kick.com/Alien)
