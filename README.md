@@ -1,3 +1,5 @@
+<img src="https://github.com/Astronaut/Astronaut/edit/main/images/astronaut.png" width="600">
+
 <div align="center" style="margin-bottom:4rem;" id="header">
 	<img style="height:9rem;width:9rem;" src="./images/astronaut.png" alt="Batman"/>
 
