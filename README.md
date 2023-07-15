@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom:4rem;" id="header">
-	<img style="height:7rem;width:7rem;" src="./images/astronaut.png" alt="Batman"/>
+	<img style="height:9rem;width:9rem;" src="./images/astronaut.png" alt="Batman"/>
 
  <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/astronaut/">
@@ -95,3 +95,6 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astronaut&theme=radical"
     		alt="astronaut" /></p>
 </div>
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
