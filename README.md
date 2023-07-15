@@ -11,6 +11,7 @@
 </div>
     <img src="https://komarev.com/ghpvc/?username=michael-duren&style=flat-square&color=green" alt="views icon"/>
 		<h3 style="margin-top:2rem;border:none;padding-bottom:0;"><b>Web Developer & Professional Hacker</b></h3>
+		<h3></h3>
 </div>
 
 ### 🧑🏻‍💻 About Me:
