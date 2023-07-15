@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="./images/astronaut.png" alt="logo">
 </div>
 
