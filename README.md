@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom:4rem;" id="header">
-	<img style="height:7rem;width:7rem;" src="./images/batman.png" alt="Batman"/>
+	<img style="height:7rem;width:7rem;" src="./images/astronaut.png" alt="Batman"/>
 
  <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/astronaut/">
