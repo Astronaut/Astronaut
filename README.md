@@ -24,9 +24,9 @@
 
 - 🛸 Working on my **OSCP**
 
-- ✉️ How to reach me: pluto@outlook.com
+- ✉️ How to reach me: **pluto@outlook.com**
 
-- 🕹 In my free time I play video games! [Twitch](https://www.twitch.tv/Saturn) | [Kick](https://www.kick.com/Alien)
+- 🕹 In my free time I play video games! **[Twitch](https://www.twitch.tv/Saturn) | [Kick](https://www.kick.com/Alien)**
 
 ### 🛠️ Languages and Tools
 
