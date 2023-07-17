@@ -97,10 +97,12 @@
 ### 🔥 Stats
 
 <div>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astronaut&theme=radical"
+    		alt="astronaut" /></p>
+</div>
+<div>
     <p><img align="left"
     		src="https://github-readme-stats.vercel.app/api/top-langs?username=astronaut&show_icons=true&locale=en&layout=compact&theme=radical"
-    		alt="astronaut" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astronaut&theme=radical"
     		alt="astronaut" /></p>
 </div>
 
