@@ -26,7 +26,7 @@
 
 - ✉️ How to reach me: **pluto@outlook.com**
 
-- 🕹 In my free time I play video games! **[Twitch](https://www.twitch.tv/Saturn) | [Kick](https://www.kick.com/Alien)**
+- 🕹 In my free time, I play video games! **[Twitch](https://www.twitch.tv/Saturn) | [Kick](https://www.kick.com/Alien)**
 
 ---
 
@@ -86,7 +86,7 @@
 ---
 
 ### 😂 Just a random joke that'll make you laugh!
+
 <div style="text-align: center;">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="background-color: #44475a; border-radius: 4px; padding: 20px; width: 400px; margin: 0 auto;">
 </div>
-
