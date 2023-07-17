@@ -28,12 +28,11 @@
 
 - 🕹 In my free time I play video games! **[Twitch](https://www.twitch.tv/Saturn) | [Kick](https://www.kick.com/Alien)**
 
+---
+
 ### 🛠️ Languages and Tools
 
 <div>
-<!-- 	<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-	</a>&nbsp; -->
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 	</a>&nbsp;
@@ -49,36 +48,12 @@
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
 	<img width=40 style="background:white;" height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 	</a>&nbsp;
-<!-- 	<a href="https://nextjs.org"  target="_blank" rel="noreferrer">
-	<img width=40 height=40 style="background:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-	</a>&nbsp; -->
-<!-- 	<a href="https://jestjs.io"  target="_blank" rel="noreferrer">
-	<img width=40 height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-	</a>&nbsp; -->
-<!-- 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer">
-	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-	</a>&nbsp; -->
-<!-- 	<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-	</a>&nbsp; -->
-<!-- 	<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-	</a>&nbsp; -->
-<!-- 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-	</a>&nbsp; -->
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
 	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 	</a>&nbsp;
-<!-- 	<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-	</a>&nbsp; -->
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 	</a>&nbsp;
-<!-- 	<a href="https://www.figma.com" target="_blank" rel="noreferrer">
-	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-	</a>&nbsp; -->
 	<a href="https://vscode.dev" target="_blank" rel="noreferrer">
 	<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 	</a>&nbsp;
@@ -93,6 +68,8 @@
 	</a>&nbsp;
 
 </div>
+
+---
 
 ### 🔥 Stats
 
