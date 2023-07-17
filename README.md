@@ -16,7 +16,6 @@
 </div>
     <img src="https://komarev.com/ghpvc/?username=astronaut&style=flat-square&color=green" alt="views icon"/>
 		<h2>Hi 🖖🏻, I'm Jose!</h2>
-  		<h3>Web Developer & Professional Hacker</h3>
 </div>
 
 ### 🧑🏻‍💻 About Me:
