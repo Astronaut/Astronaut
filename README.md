@@ -79,7 +79,7 @@
 </div>
 <div>
     <p><img align="center"
-    		src="https://github-readme-stats.vercel.app/api/top-langs?username=astronaut&show_icons=true&locale=en&layout=compact&theme=radical"
+    		src="https://github.com/astronaut/github-readme-stats"
     		alt="astronaut" /></p>
 </div>
 
