@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-	<img style="height:9rem;width:9rem;" src="./images/astronaut.png" alt="Batman"/>
+	<img src="./images/astronaut.png" alt="Batman"/>
  
  <div align="center">
   <a href="https://www.linkedin.com/in/sith/">
@@ -15,7 +15,7 @@
   </a>
 </div>
     <img src="https://komarev.com/ghpvc/?username=astronaut&style=flat-square&color=green" alt="views icon"/>
-		<h2>Hi 🖖🏻, I'm Jose!</h2>
+		<h1>Hi 🖖🏻, I'm Jose!</h1>
 </div>
 
 ### 🧑🏻‍💻 About Me:
