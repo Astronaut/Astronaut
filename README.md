@@ -99,12 +99,14 @@
 <div>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astronaut&theme=radical"
     		alt="astronaut" /></p>
+</div>
 <div>
     <p><img align="center"
     		src="https://github-readme-stats.vercel.app/api/top-langs?username=astronaut&show_icons=true&locale=en&layout=compact&theme=radical"
     		alt="astronaut" /></p>
 </div>
-</div>
+
+---
 
 ### 😂 Just a random joke that'll make you laugh!
 <div style="text-align: center;">
