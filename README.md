@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-	<img style="height:9rem;width:9rem;" src="./images/astronaut.png" alt="Batman"/>
+	<img style="height:11rem;width:11rem;" src="./images/astronaut.png" alt="Astronaut"/>
  
  <div align="center">
   <a href="https://www.linkedin.com/in/sith/">
