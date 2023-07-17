@@ -3,7 +3,7 @@
   <img src="./images/logo.png" alt="logo">
 </div>
 
-<div align="center" style="margin-bottom:4rem;" id="header">
+<div align="center" style="margin-bottom:4rem;">
 	<img style="height:9rem;width:9rem;" src="./images/astronaut.png" alt="Batman"/>
  
  <div align="center" id="badges">
