@@ -84,9 +84,6 @@
 </div>
 
 ---
-
-### 🦖😂
-
-<div align="center">
+<div align="left">
   <img src="./images/dinosaurJoke.png" alt="logo">
 </div>
