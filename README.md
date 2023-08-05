@@ -90,3 +90,7 @@
 <div style="text-align: center;">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="background-color: #44475a; border-radius: 4px; padding: 20px; width: 400px; margin: 0 auto;">
 </div>
+
+<div align="center">
+  <img src="./images/dinosaurJoke.png" alt="logo">
+</div>
